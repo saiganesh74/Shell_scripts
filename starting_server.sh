@@ -1,6 +1,6 @@
 #!/bin/bash
 service_name='nginx'
-if systemctl is-active --quiet "$service_name"; then 
+if systemctl is-active --quiet "$service_name"; then #Here the --quiet suppreses the output whether is running or not 
     echo "$service_name is runnning"
 else 
     echo "$service_name is not runnning, Starting now ..."
