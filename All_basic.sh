@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Basic Bash Script Example
-# Save as: myscript.sh
-# Make executable: chmod +x myscript.sh
-# Run with: ./myscript.sh
-
 # Print a welcome message
 echo "Hello! Welcome to our script"
 
