@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Print a welcome message
 echo "Hello! Welcome to our script"
 
 # Variables
