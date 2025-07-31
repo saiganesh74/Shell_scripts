@@ -32,7 +32,7 @@ greet() {
 # Call the function
 greet
 
-# Simple command execution
+# Simple command 
 echo "Current directory contents:"
 ls -la
 
