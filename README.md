@@ -19,8 +19,8 @@ Whether you're a beginner learning Linux automation or a DevOps engineer looking
 
 
 ```sh
-git clone https://github.com/saiganesh74/Shell_basics
-cd Shell_basics
+git clone https://github.com/saiganesh74/Shell_scripts
+cd Shell_scripts
 chmod +x file_name.sh
 ./file_name.sh
 ```
